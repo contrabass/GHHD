@@ -1,1 +1,1 @@
-# GHHD
+# Github hooks demo repository
