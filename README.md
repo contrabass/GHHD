@@ -1,1 +1,1 @@
-# Github hooks demo repository
+# Github Hooks Demo Repository
