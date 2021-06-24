@@ -1,1 +1,2 @@
-let x = 21*2 //qazwsxqazwsx
+let x = 21*2; //qazwsxqazwsx
+const y = 42/2;
